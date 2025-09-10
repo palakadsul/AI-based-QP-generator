@@ -1,1 +1,1 @@
-# Smart-Grocery-Planner
+# AI-based-QP-generator
